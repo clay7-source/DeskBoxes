@@ -1,0 +1,8 @@
+# Local runtime state & backup executables
+*.old.exe
+*.pdb
+boxes-state.json
+BoxedItems/
+.vs/
+bin/
+obj/
